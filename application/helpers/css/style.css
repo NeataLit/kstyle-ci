@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background: #61677A;
+    padding: 20px;
+    color: white;
+    display: flex;
+}
+
+.brand{
+    margin-right: 5px;
+    flex: 1;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+
+.bar{
+    flex: 2;
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+}
+
+.menu{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
+
+.menu:hover{
+    color: #1a1b1c;
+}
+
+.dd{
+    background: #61677A;
+    border: 0;
+    margin-left: -25px;
+    margin-top: -5px;
+}
+
+.dd:hover{
+    color: #272829;
+    background: #61677A;
+}
+
+.dd-item{
+    font-size: 13px;
+}
+
+.icuser{
+    margin-left: 25px;
+}
+
+.ic{
+    text-decoration: none;
+    color: white;
+}
+
+.ic:hover{
+    color: #272829;
+}
+
