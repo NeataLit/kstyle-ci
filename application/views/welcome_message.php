@@ -21,13 +21,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <header class="d-flex align-items-center">
     <div class="brand"> K-style</div>
     <div class="row align-items-start bar">
-        <div class="col-7">
+        <div class="col-6">
             <a class="menu"> Home </a>
             <a class="menu"> New Collection </a>
             <a class="menu"> Best Seller </a>
-            <a class="menu"> Seasonal </a>
+            <a class="menu menus"> Seasonal </a>
         </div>
-        <div class="col-5">
+        <div class="col-2">
             <div class="dropdown">
                 <a class="btn btn-sm btn-secondary dropdown-toggle dd" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                   All Collection
